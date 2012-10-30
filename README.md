@@ -8,6 +8,6 @@ URL ends with `.json`.
 # Usage
 
 ```javascript
-var acceptOverride = require('connect-acceptOverride');
+var acceptOverride = require('connect-acceptoverride');
 app.use(acceptOverride());
 ```
