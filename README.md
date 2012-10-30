@@ -9,5 +9,5 @@ URL ends with `.json`.
 
 ```javascript
 var acceptOverride = require('connect-acceptOverride');
-app.use(acceptOverride);
+app.use(acceptOverride());
 ```
