@@ -3,7 +3,7 @@ URL ends with `.json`.
 
 # Install
 
-    npm install connect-acceptOverride
+    npm install connect-acceptoverride
 
 # Usage
 
