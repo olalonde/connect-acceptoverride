@@ -1,0 +1,21 @@
+{
+  "name": "connect-acceptOverride",
+  "version": "0.0.1",
+  "description": "Override `Accept` header if URL ends with .json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:olalonde/connect-acceptOverride.git"
+  },
+  "keywords": [
+    "connect",
+    "express",
+    "middleware",
+    "json"
+  ],
+  "author": "Olivier Lalonde <olalonde@gmail.com>",
+  "license": "BSD"
+}
