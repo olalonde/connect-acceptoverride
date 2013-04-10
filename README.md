@@ -1,5 +1,5 @@
 Will change the request's `Accept` header to `application/json` if the
-URL ends with `.json`.
+URL ends with `.json`, or to `application/xml` if the URL ends with .xml.
 
 # Install
 
