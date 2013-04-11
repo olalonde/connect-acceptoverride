@@ -1,7 +1,7 @@
 {
   "name": "connect-acceptoverride",
-  "version": "0.0.2",
-  "description": "Override `Accept` header if URL ends with .json",
+  "version": "0.0.3",
+  "description": "Override `Accept` header if URL ends with .json or .xml",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,7 +14,8 @@
     "connect",
     "express",
     "middleware",
-    "json"
+    "json",
+    "xml"
   ],
   "author": "Olivier Lalonde <olalonde@gmail.com>",
   "license": "BSD"
