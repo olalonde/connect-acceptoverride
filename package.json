@@ -10,6 +10,10 @@
     "type": "git",
     "url": "git@github.com:olalonde/connect-acceptOverride.git"
   },
+  "dependencies":{},
+  "devDependencies": {
+    "mocha": "*"
+  },
   "keywords": [
     "connect",
     "express",
