@@ -1,6 +1,6 @@
 {
   "name": "connect-acceptoverride",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Override `Accept` header if URL ends with .json or .xml",
   "main": "index.js",
   "scripts": {
